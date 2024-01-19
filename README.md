@@ -20,7 +20,12 @@ This application can easily generate a README file by using a command-line appli
 This project was built using npm i inquirer@8.2.4 and JavaScript.  Versioning control on Github.  
 
 ## Installation
-To install this project, download the repository files to your local machine.  Install npm inquirer and use the command line to run the JavaScript  Professional README Generator application.  
+To install this project, download the repository files to your local machine.  Install npm inquirer and use the command line to run the JavaScript  Set up your Node.js project:
+
+Initialize a new Node.js project with npm init.
+Install Inquirer (npm install inquirer) for user input.
+Install Jest (npm install jest --save-dev) for testing.
+Set up your package.json to use Jest for testing ("test": "jest").Professional README Generator application.  
 
 ## Usage
 To use this project, download the repository files to your local machine.  Install npm inquirer and use the command line to run the JavaScript  Professional README Generator application.  
